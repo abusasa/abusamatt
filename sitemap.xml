@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+		
+	
+
+	<url>
+	<loc>https://notelic.ru/</loc>
+	<lastmod>2024-07-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url><url>
+	<loc>https://notelic.ru/all</loc>
+	<lastmod>2024-07-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url><url>
+	<loc>https://notelic.ru/user</loc>
+	<lastmod>2024-07-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url><url>
+	<loc>https://notelic.ru/signup</loc>
+	<lastmod>2024-07-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url><url>
+	<loc>https://notelic.ru/signin</loc>
+	<lastmod>2024-07-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url><url>
+	<loc>https://notelic.ru/terms</loc>
+	<lastmod>2024-07-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+		
+	</urlset>
